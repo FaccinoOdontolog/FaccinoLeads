@@ -17,7 +17,6 @@
             </ul>
         </nav>
     </header>
-    
     <main>
         <section>
             <h2>Seja bem-vindo à nossa clínica!</h2>
