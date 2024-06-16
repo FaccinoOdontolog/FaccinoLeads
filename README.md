@@ -3,24 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Página</title>
+    <title>Minha Clínica Odontológica</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <div class="nav-left">
-            <h1>Minha Clínica Odontológica</h1>
-            <nav>
-                <ul>
-                    <li><a href="#">Página Inicial</a></li>
-                    <li><a href="#">Leads Quentes</a></li>
-                    <li><a href="#">Leads Frios</a></li>
-                    <li><a href="#">Serviços</a></li>
-                    <li><a href="#">Contato</a></li>
-                    <!-- Adicione mais itens conforme necessário -->
-                </ul>
-            </nav>
-        </div>
+        <h1>Minha Clínica Odontológica</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Página Inicial</a></li>
+                <li><a href="#">Leads Quentes</a></li>
+                <li><a href="#">Leads Frios</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Contato</a></li>
+                <!-- Adicione mais itens conforme necessário -->
+            </ul>
+        </nav>
     </header>
     <main>
         <section>
