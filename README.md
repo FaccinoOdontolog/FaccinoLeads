@@ -36,7 +36,6 @@
             </ul>
         </section>
     </main>
-    
     <footer>
         <p>&copy; 2024 Minha Clínica Odontológica. Todos os direitos reservados.</p>
     </footer>
