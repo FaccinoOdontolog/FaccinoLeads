@@ -23,7 +23,7 @@
     
     <main>
         <section>
-            <img src="caminho/para/sua/imagem.jpg" alt="Descrição da Imagem">
+            <img src="dowloads/icones" alt="Descrição da Imagem">
             <h2>Seja bem-vindo à nossa clínica!</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla, justo sit amet ultrices vehicula, lacus felis tempor ex, non maximus ligula felis sed magna.</p>
         </section>
