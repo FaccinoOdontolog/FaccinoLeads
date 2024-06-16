@@ -22,7 +22,6 @@
             <h2>Seja bem-vindo à nossa clínica!</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla, justo sit amet ultrices vehicula, lacus felis tempor ex, non maximus ligula felis sed magna.</p>
         </section>
-        
         <section>
             <h2>Nossos Serviços</h2>
             <ul>
@@ -32,7 +31,6 @@
             </ul>
         </section>
     </main>
-    
     <footer>
         <p>&copy; 2024 Minha Clínica Odontológica. Todos os direitos reservados.</p>
     </footer>
